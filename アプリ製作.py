@@ -30,4 +30,3 @@ df=pd.DataFrame(
 st.map(df)
 st.table(df)
 st.bar_chart(df)
-ｈｓｄｊｊｄ
